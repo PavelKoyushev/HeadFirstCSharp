@@ -1,0 +1,9 @@
+D:\Программирование\Стиллмэн\Interface IClown\Interface IClown\bin\Debug\Interface IClown.exe.config
+D:\Программирование\Стиллмэн\Interface IClown\Interface IClown\bin\Debug\Interface IClown.exe
+D:\Программирование\Стиллмэн\Interface IClown\Interface IClown\bin\Debug\Interface IClown.pdb
+D:\Программирование\Стиллмэн\Interface IClown\Interface IClown\obj\Debug\Interface_IClown.Form1.resources
+D:\Программирование\Стиллмэн\Interface IClown\Interface IClown\obj\Debug\Interface_IClown.Properties.Resources.resources
+D:\Программирование\Стиллмэн\Interface IClown\Interface IClown\obj\Debug\Interface IClown.csproj.GenerateResource.Cache
+D:\Программирование\Стиллмэн\Interface IClown\Interface IClown\obj\Debug\Interface IClown.exe
+D:\Программирование\Стиллмэн\Interface IClown\Interface IClown\obj\Debug\Interface IClown.pdb
+D:\Программирование\Стиллмэн\Interface IClown\Interface IClown\obj\Debug\Interface IClown.csprojResolveAssemblyReference.cache

@@ -1,0 +1,26 @@
+D:\Программирование\Си\DinnerParty\DinnerParty\bin\Debug\DinnerParty.exe.config
+D:\Programming\Изучаем C\Windows Forms Application\DinnerParty\DinnerParty\DinnerParty\bin\Debug\DinnerParty.exe.config
+D:\Programming\Изучаем C\Windows Forms Application\DinnerParty\DinnerParty\DinnerParty\bin\Debug\DinnerParty.exe
+D:\Programming\Изучаем C\Windows Forms Application\DinnerParty\DinnerParty\DinnerParty\bin\Debug\DinnerParty.pdb
+D:\Programming\Изучаем C\Windows Forms Application\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.csprojResolveAssemblyReference.cache
+D:\Programming\Изучаем C\Windows Forms Application\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.Form1.resources
+D:\Programming\Изучаем C\Windows Forms Application\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.Properties.Resources.resources
+D:\Programming\Изучаем C\Windows Forms Application\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.csproj.GenerateResource.Cache
+D:\Programming\Изучаем C\Windows Forms Application\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.exe
+D:\Programming\Изучаем C\Windows Forms Application\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.pdb
+D:\Программирование\Стиллмэн\DinnerParty\DinnerParty\DinnerParty\bin\Debug\DinnerParty.exe.config
+D:\Программирование\Стиллмэн\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.exe
+D:\Программирование\Стиллмэн\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.pdb
+D:\Программирование\Стиллмэн\DinnerParty\DinnerParty\DinnerParty\bin\Debug\DinnerParty.exe
+D:\Программирование\Стиллмэн\DinnerParty\DinnerParty\DinnerParty\bin\Debug\DinnerParty.pdb
+D:\Программирование\Стиллмэн\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.csprojResolveAssemblyReference.cache
+D:\Программирование\Стиллмэн\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.Form1.resources
+D:\Программирование\Стиллмэн\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.Properties.Resources.resources
+D:\Программирование\Стиллмэн\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.csproj.GenerateResource.Cache
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\DinnerParty\DinnerParty\DinnerParty\bin\Debug\DinnerParty.exe.config
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.exe
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.pdb
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.Form1.resources
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.Properties.Resources.resources
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\DinnerParty\DinnerParty\DinnerParty\obj\Debug\DinnerParty.csproj.GenerateResource.Cache

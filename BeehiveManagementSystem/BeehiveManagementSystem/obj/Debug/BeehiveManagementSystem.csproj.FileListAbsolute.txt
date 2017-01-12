@@ -1,0 +1,12 @@
+D:\Программирование\Стиллмэн\BeehiveManagementSystem\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.exe.config
+D:\Программирование\Стиллмэн\BeehiveManagementSystem\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.exe
+D:\Программирование\Стиллмэн\BeehiveManagementSystem\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.pdb
+D:\Программирование\Стиллмэн\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.csprojResolveAssemblyReference.cache
+D:\Программирование\Стиллмэн\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.Form1.resources
+D:\Программирование\Стиллмэн\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.Properties.Resources.resources
+D:\Программирование\Стиллмэн\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.csproj.GenerateResource.Cache
+D:\Программирование\Стиллмэн\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.exe
+D:\Программирование\Стиллмэн\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.pdb
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\BeehiveManagementSystem\BeehiveManagementSystem\bin\Debug\BeehiveManagementSystem.exe.config
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.exe
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\BeehiveManagementSystem\BeehiveManagementSystem\obj\Debug\BeehiveManagementSystem.pdb

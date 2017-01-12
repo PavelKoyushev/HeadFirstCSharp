@@ -1,0 +1,6 @@
+C:\Users\pkoyu\iCloudDrive\Си\Стиллмен\HomeLocation\HomeLocation\bin\Debug\HomeLocation.exe.config
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\HomeLocation\HomeLocation\bin\Debug\HomeLocation.exe.config
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\HomeLocation\HomeLocation\obj\Debug\HomeLocation.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\HomeLocation\HomeLocation\obj\Debug\HomeLocation.Form1.resources
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\HomeLocation\HomeLocation\obj\Debug\HomeLocation.Properties.Resources.resources
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\HomeLocation\HomeLocation\obj\Debug\HomeLocation.csproj.GenerateResource.Cache

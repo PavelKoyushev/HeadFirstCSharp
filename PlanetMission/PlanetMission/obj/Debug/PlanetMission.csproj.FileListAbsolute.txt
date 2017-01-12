@@ -1,0 +1,26 @@
+D:\Programming\Изучаем C\Стиллмен\PlanetMission\PlanetMission\bin\Debug\PlanetMission.exe.config
+Q:\Users\Pavel Koyushev\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\bin\Debug\PlanetMission.exe.config
+Q:\Users\Pavel Koyushev\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\bin\Debug\PlanetMission.exe
+Q:\Users\Pavel Koyushev\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\bin\Debug\PlanetMission.pdb
+Q:\Users\Pavel Koyushev\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.csprojResolveAssemblyReference.cache
+Q:\Users\Pavel Koyushev\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.Form1.resources
+Q:\Users\Pavel Koyushev\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.Properties.Resources.resources
+Q:\Users\Pavel Koyushev\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.csproj.GenerateResource.Cache
+Q:\Users\Pavel Koyushev\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.exe
+Q:\Users\Pavel Koyushev\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.pdb
+C:\Users\pkoyu\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\bin\Debug\PlanetMission.exe.config
+C:\Users\pkoyu\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.exe
+C:\Users\pkoyu\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.pdb
+C:\Users\pkoyu\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\bin\Debug\PlanetMission.exe
+C:\Users\pkoyu\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\bin\Debug\PlanetMission.pdb
+C:\Users\pkoyu\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.csprojResolveAssemblyReference.cache
+C:\Users\pkoyu\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.Form1.resources
+C:\Users\pkoyu\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.Properties.Resources.resources
+C:\Users\pkoyu\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.csproj.GenerateResource.Cache
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\bin\Debug\PlanetMission.exe.config
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.exe
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.pdb
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.csprojResolveAssemblyReference.cache
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.Form1.resources
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.Properties.Resources.resources
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\PlanetMission\PlanetMission\obj\Debug\PlanetMission.csproj.GenerateResource.Cache

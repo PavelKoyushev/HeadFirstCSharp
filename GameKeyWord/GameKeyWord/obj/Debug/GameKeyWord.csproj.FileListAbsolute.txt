@@ -1,0 +1,12 @@
+D:\Программирование\Си\GameKeyWord\GameKeyWord\bin\Debug\GameKeyWord.exe.config
+D:\Программирование\Си\GameKeyWord\GameKeyWord\bin\Debug\GameKeyWord.exe
+D:\Программирование\Си\GameKeyWord\GameKeyWord\bin\Debug\GameKeyWord.pdb
+D:\Программирование\Си\GameKeyWord\GameKeyWord\obj\Debug\GameKeyWord.csprojResolveAssemblyReference.cache
+D:\Программирование\Си\GameKeyWord\GameKeyWord\obj\Debug\GameKeyWord.Properties.Resources.resources
+D:\Программирование\Си\GameKeyWord\GameKeyWord\obj\Debug\GameKeyWord.csproj.GenerateResource.Cache
+D:\Программирование\Си\GameKeyWord\GameKeyWord\obj\Debug\GameKeyWord.exe
+D:\Программирование\Си\GameKeyWord\GameKeyWord\obj\Debug\GameKeyWord.pdb
+D:\Программирование\Си\GameKeyWord\GameKeyWord\obj\Debug\GameKeyWord.Form1.resources
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\GameKeyWord\GameKeyWord\bin\Debug\GameKeyWord.exe.config
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\GameKeyWord\GameKeyWord\obj\Debug\GameKeyWord.exe
+C:\Users\Pavel\iCloudDrive\Си\Стиллмен\GameKeyWord\GameKeyWord\obj\Debug\GameKeyWord.pdb

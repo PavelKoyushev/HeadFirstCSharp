@@ -1,0 +1,4 @@
+D:\Программирование\Стиллмэн\Interface IClown\Interface IClown\bin\Release\Interface IClown.exe.config
+D:\Программирование\Стиллмэн\Interface IClown\Interface IClown\obj\Release\Interface_IClown.Form1.resources
+D:\Программирование\Стиллмэн\Interface IClown\Interface IClown\obj\Release\Interface_IClown.Properties.Resources.resources
+D:\Программирование\Стиллмэн\Interface IClown\Interface IClown\obj\Release\Interface IClown.csproj.GenerateResource.Cache
